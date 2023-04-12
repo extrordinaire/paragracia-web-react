@@ -1,10 +1,8 @@
 <div align="center">
   <img src="./src/assets/react.svg" alt="Logo" width="100rem">
   <div style="margin-top: 1rem;">
-    <span style="font-weight: 800;">
-      paragracia-web-react
-    </span>
-    <span style="font-weight: 100;" id="version">v0.0.0</span>
+    <b>paragracia-web-react</b>    
+    <sub id="version">v0.0.0</sub>
   </div>
 </div>
 
